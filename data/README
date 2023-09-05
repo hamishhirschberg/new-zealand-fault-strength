@@ -6,3 +6,7 @@ fault_sliprate_observations.dat - input fault slip rates on fault segments (in m
 force_potentials_from_topography_on_points.dat - force potentials from topography and bathymetry (MPa).
 force_potentials_on_points.dat - modelled force potentials (MPa).
 plot_strain_rate_apriori_in_elements.dat - modelled most extensional and most compressional strain rates (/yr) and direction of most compressional strain rate.
+plot_strain_rate_for_style.dat - most extensional and most compressional strain rates (/yr) and direction of most compressional strain rate that are derived from fault slip rates and used to calculate strain rate style.
+plot_strain_rate_observations.dat - most extensional and most compressional strain rates (/yr) and direction of most compressional strain rate for strain rate observations.
+plot_stress_apriori_in_elements.dat - modelled most extensional and most compressional stresses (MPa) and direction of most compressional stresses.
+viscosity_in_elements.dat - modelled viscosity in elements (Pa s).
