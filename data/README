@@ -1,0 +1,8 @@
+The 'data' folder contains the input and output data for the model.
+
+The folder contains the following files:
+fault_output.csv - summary of modelled fault properties including transverse and normal components of horizontal slip rate (mm/yr), slip rate capacity (m/(Pa s)), equivalent dip (deg), transverse and normal components of horizontal tractions (MPa), and friction coefficient.
+fault_sliprate_observations.dat - input fault slip rates on fault segments (in mm/yr).
+force_potentials_from_topography_on_points.dat - force potentials from topography and bathymetry (MPa).
+force_potentials_on_points.dat - modelled force potentials (MPa).
+plot_strain_rate_apriori_in_elements.dat - modelled most extensional and most compressional strain rates (/yr) and direction of most compressional strain rate.
