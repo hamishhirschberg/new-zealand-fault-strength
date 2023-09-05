@@ -1,3 +1,9 @@
 Dynamical Modeling of Fault Slip Rates at the New Zealand Plate Boundary Indicates Fault Weakness
 
 This repository contains code and data associated with Hirschberg & Sutherland (submitted).
+
+The code used for the model inversion is from Haines & Sutherland (2018) and the user is referred to their paper for inversion codes.
+Codes relating to parameter adjustment are present in the 'code' folder.
+
+Data input into the models and data output by the models are present in the 'data' folder.
+Slip rate data is from Seebeck et al. (2023). Topography data derives from Mitchell et al. (2012).
